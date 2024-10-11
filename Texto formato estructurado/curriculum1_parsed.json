@@ -1,0 +1,72 @@
+{
+  "education": [
+    {
+      "degree": "Grado en publicidad y relaciones públicas",
+      "institution": "Universidad Complutense Madrid, Madrid",
+      "year": "Septiembre 2019 - Actualidad"
+    },
+    {
+      "degree": "Selectividad, Bachillerato de Ciencias Sociales y ESO",
+      "institution": "Instituto Alfonso X, Murcia",
+      "year": "Septiembre 2013 - Junio 2019"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Asistente de ventas",
+      "company": "Urban Outfitters, Madrid",
+      "duration": "Septiembre 2019 - Actualidad",
+      "responsibilities": [
+        "Atender y mantener el estado de la tienda, asesorando a clientes entre otras tareas.",
+        "Encargado de la caja demostradora, controlando el balance al final y al principio del día."
+      ]
+    },
+    {
+      "title": "Relaciones públicas",
+      "company": "Discoteca Believe, Murcia",
+      "duration": "Enero 2019 - Junio 2019",
+      "responsibilities": [
+        "Captación de clientes.",
+        "Soporte en la creación y apoyo de campañas de difusión."
+      ]
+    },
+    {
+      "title": "Encargado de promoción de eventos en RRSS",
+      "company": "Voluntariado en Greenpeace, Murcia",
+      "duration": "Marzo 2018 - Agosto 2018",
+      "responsibilities": [
+        "Promoción voluntaria de eventos en cuentas oficiales de Instagram y Facebook de Greenpeace."
+      ]
+    }
+  ],
+  "certifications": [
+    "Certificado English Cambridge C2"
+  ],
+  "tools_and_technologies": [
+    "Microsoft Office - Word, Excel y Power Point",
+    "iMovie"
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "proficiency": "C2"
+    },
+    {
+      "language": "Francés",
+      "proficiency": "B2"
+    },
+    {
+      "language": "Alemán",
+      "proficiency": "A1"
+    }
+  ],
+  "contact_information": {
+    "email": "no_reply@example.com",
+    "phone": "(34) 000 000 000"
+  },
+  "location": {
+    "city": "Madrid",
+    "state": "Madrid",
+    "country": "Spain"
+  }
+}

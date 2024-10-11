@@ -1,0 +1,46 @@
+{
+  "education": [
+    {
+      "degree": "Administración empresarial y Sistemas IT",
+      "institution": "Universidad de Sevilla",
+      "year": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Responsable de Procesos Digitales",
+      "company": "Agencia del Patrimonio Cultural",
+      "duration": "2010 - Presente",
+      "responsibilities": [
+        "Apoyar a los especialistas en patrimonio en el uso, diseño y desarrollo de procesos digitales.",
+        "Brindar capacitación interna a colegas y usuarios.",
+        "Trabajando en la plataforma Opentext junto con el equipo de desarrollo ágil."
+      ]
+    },
+    {
+      "title": "Responsable de aplicaciones y sistemas de información",
+      "company": "Municipio de Sevilla",
+      "duration": "2006 - 2010",
+      "responsibilities": [
+        "Trabajé con diferentes técnicas en cuanto a aplicaciones, infraestructura y la relación entre ellos.",
+        "Implementar y administrar sistemas de información en el día a día."
+      ]
+    }
+  ],
+  "certifications": [
+    "Gestión de proyectos"
+  ],
+  "tools_and_technologies": [
+    "Opentext"
+  ],
+  "languages": [],
+  "contact_information": {
+    "email": "ejemplo@cvmaker.es",
+    "phone": "+34 362 5984 5213"
+  },
+  "location": {
+    "city": "Barcelona",
+    "state": "",
+    "country": "Spain"
+  }
+}

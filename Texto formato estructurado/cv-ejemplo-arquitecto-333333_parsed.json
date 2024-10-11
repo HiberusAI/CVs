@@ -1,0 +1,48 @@
+{
+  "education": [],
+  "experience": [
+    {
+      "title": "Ingeniero arquitecto",
+      "company": "Estudio FLEX, Barcelona",
+      "responsibilities": [
+        "Durante este puesto fui responsable de iniciar, adquirir y diseñar varios proyectos que se desarrollaron junto con el equipo en un plan definitivo.",
+        "Supervisar los procesos de construcción y monitorear la calidad y los principios arquitectónicos.",
+        "Hacer estudios de ubicación y urbanismo."
+      ]
+    },
+    {
+      "title": "Ingeniero arquitecto",
+      "company": "EH Arquitectos, Barcelona",
+      "duration": "2007 - 2014",
+      "responsibilities": [
+        "Durante este puesto, trabajé en renovaciones a pequeña escala y proyectos de nueva construcción.",
+        "Supervisar de forma independiente el progreso de los proyectos."
+      ]
+    },
+    {
+      "title": "Diseñador asistente/Arquitecto junior",
+      "company": "Vis Arquitectos, Barcelona",
+      "duration": "2003 - 2007",
+      "responsibilities": [
+        "Actué como la mano derecha del arquitecto tanto a nivel de diseño como de dibujo.",
+        "Trabajé en propuestas y maquetas."
+      ]
+    }
+  ],
+  "certifications": [],
+  "tools_and_technologies": [
+    "AutoCAD",
+    "Revit",
+    "Grasshopper",
+    "Adobe Photoshop"
+  ],
+  "languages": [],
+  "contact_information": {
+    "email": "ejemplo@cvmaker.es",
+    "phone": "+34 532 5600 6552"
+  },
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain"
+  }
+}
